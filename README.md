@@ -24,6 +24,14 @@
 - [Books](#books)
 - [Talks & Videos](#talks--videos)
 - [Community](#community)
+- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+- Libraries
+   - Custom Builders
+   - Custom Provisioners
+   - Custom Post-Processors
+   - Custom Wrappers
+- Templates
+- [Talks](#talks)
 
 ---
 
@@ -94,6 +102,14 @@ Official Packer integrations for major platforms. Full list: [developer.hashicor
 - [Shell](https://developer.hashicorp.com/packer/docs/provisioners/shell) — Run shell scripts; supports inline commands and shebang lines (v1.13+).
 - [File](https://developer.hashicorp.com/packer/docs/provisioners/file) — Upload files and directories to the image.
 - [PowerShell](https://developer.hashicorp.com/packer/docs/provisioners/powershell) — Run PowerShell scripts for Windows image provisioning.
+
+#### Custom Wrappers
+
+* [python-packer](https://github.com/abhi1693/python-packer) - A Python interface for packer.io (credit [@abhi1693](https://github.com/abhi1693))
+
+
+## Tutorials and Blog Posts
+
 
 ## Plugin Development
 
