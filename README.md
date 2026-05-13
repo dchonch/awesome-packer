@@ -1,14 +1,12 @@
-# Awesome Packer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Packer
 
-> A curated list of resources for [HashiCorp Packer](https://developer.hashicorp.com/packer) — the open source tool for creating identical machine images across multiple platforms from a single source configuration.
->
-> Inspired by [@sindresorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome) and [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform).
->
-> Your [contributions](https://github.com/dawitnida/awesome-packer/blob/master/.github/CONTRIBUTING.md) are welcome!
+<div align="center"><img src="https://awesome.re/badge-flat.svg" /></div>
+
+[HashiCorp Packer](https://developer.hashicorp.com/packer) is an open source tool for creating identical machine images across multiple platforms from a single source configuration.
 
 > **Note:** In August 2023, HashiCorp relicensed Packer from MPL 2.0 to the [Business Source License (BSL 1.1)](https://www.hashicorp.com/bsl). The source code remains publicly available; production use by competing vendors is restricted. There is currently no community fork equivalent to Packer.
 
----
+_Please read the [contributing guidelines](contributing.md) before contributing._
 
 ## Contents
 
@@ -24,8 +22,6 @@
 - [Books](#books)
 - [Talks & Videos](#talks--videos)
 - [Community](#community)
-
----
 
 ## Official Resources
 
